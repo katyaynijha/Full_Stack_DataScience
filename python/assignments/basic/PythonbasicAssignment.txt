@@ -30,7 +30,7 @@ Here, on the execution of statement spam= 10, a variable will be created that st
 6.	After running the following code, what does the variable bacon contain?
 bacon = 22
 bacon + 1
-bacon contain integer value 23.
+bacon contain integer value 22 as reassignment has not been done, bacon+1 is not stored in bacon.
 
 7.	What should the values of the following two terms be?
 ‘spam’ + ‘spamspam’ gives ‘spamspamspam’
